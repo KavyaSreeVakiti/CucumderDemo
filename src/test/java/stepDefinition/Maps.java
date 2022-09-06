@@ -13,7 +13,7 @@ public class Maps
 
     public void user_is_on_registration_page()
     {
-        System.out.println("user is on registration page");
+        System.out.println("user is registration page");
     }
     @When("user enters following details")
 
@@ -48,4 +48,5 @@ public class Maps
     }
 
 }
+//new branch 1
 
